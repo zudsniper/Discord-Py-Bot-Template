@@ -1,15 +1,15 @@
 # Discord Py Bot Template
 
-Discord.py is a library that allows you to make discord bots with python and this repo is a template of a bot which is made by using Discord.Py.
-- ✨I am trying to help the bot developing community with this template✨
+Discord.py is a library that allows you to make discord bots with python. this repo is a template of a bot made using Discord.P should look like. Enjoy!  
+- ✨I am trying to help the bot development community with this template✨
 
 ## Features
 
-- 10+ ready to use functions.
-- Easy start for begginer bot developers.
+- 10+ ready-to-use functions.
+- Easy start for beginner bot developers.
 
 ## Notes From The Developer
-> It is recommended to use other sources to get started with the bot developement process and use this repo to take a look when you strugle or when you need to see a finished bot structure.
+> It is recommended to use other sources to get started with Discord bot development, then return to this repo when struggling, or when you want an idea as to the structure of a finished discord bot.
 > 
 # Setup
 
@@ -52,4 +52,4 @@ Prefix = "."
     ```
 
 # Contribution
-You can always make pull request to this repo, if you report or fix a bug or if you add more commands to the template I'll be happy to merge them.
+You can always make pull requests to this repo, if you report or fix a bug or if you add more commands to the template I'll be happy to merge them.
